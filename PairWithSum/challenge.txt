@@ -1,0 +1,17 @@
+Input parameters:
+- A collection of integers 
+- An integer (Sum to compute)
+
+Create a function with will find if the collection contains a pair of integers thats sum equals the given integer.
+
+You can assume that the collection is already sorted.
+
+Example:
+
+Input: [1,2,3,4,5], 7
+Output: True
+
+The output is True because the collection contains a pair thats sum is equal to 7. (2,5), (3,4)
+
+Bonus:
+Make your function return all pairs that equal the sum rather than just a bool.

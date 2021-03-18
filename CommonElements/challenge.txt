@@ -1,0 +1,11 @@
+Input Parameters:
+- 2 collections of strings
+
+Create a function that will determine if the two collections have common elements.
+
+Consider what happens if the collections are of different sizes (or one is empty).
+Avoid solutions that are O(n^2) (nested loops).
+
+Example:
+
+input: ['a','b','c','d','e'], ['f','g','h','c','i']
